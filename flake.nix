@@ -5,7 +5,7 @@
     { self }@attrs:
     {
       templates.default = {
-        path = "./templates/generic";
+        path = ./templates/generic;
         description = "Generic Template";
       };
     };
